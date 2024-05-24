@@ -1,6 +1,4 @@
-# Biostatistics Undergraduate Summer Internships (BUSI)
-
-Are your undergraduates looking for a way to stay "BUSI" over the summer?
+# Are your undergraduates looking for a way to stay "BUSI" over the summer?
 Is your Biostatistics department too quiet over the summer? Are your graduate students thirsty for opportunities to mentor budding statisticians? UNC-Chapel Hill has crafted the perfect template for you to launch a successful summer program.
 
 ## Why We Started BUSI
