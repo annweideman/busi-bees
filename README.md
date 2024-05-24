@@ -16,7 +16,7 @@ Interested students within the department fill out an application. Our graduate 
 ### Interviews
 Faculty interview and choose their intern(s) from the curated shortlist. Typically, each faculty member selects 1-2 students.
 
-## Financial Support
+### Financial Support
 BUSI encourages faculty to offer any opportunities that will work well for undergraduate students. Some projects are funded while others are volunteer-based. Faculty indicate funding availability when offering projects and students indicate if they are only interested in funded opportunities or any type of experience in their application.
 
 ## Summer Events
