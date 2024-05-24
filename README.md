@@ -1,75 +1,54 @@
-# Biostatistics Undergraduate Summer Internships (BUSI) Program
+# Biostatistics Undergraduate Summer Internships (BUSI)
 
-## Overview
-
-The BUSI program at UNC-Chapel Hill was conceived by a dynamic duo of graduate students and a visionary faculty member during a coffee-fueled brainstorming session. It aims to turn theoretical knowledge of statistics into hands-on, real-world experiences.
+Are your undergraduates looking for a way to stay "BUSI" over the summer?
+Is your Biostatistics department too quiet over the summer? Are your graduate students thirsty for opportunities to mentor budding statisticians? UNC-Chapel Hill has crafted the perfect template for you to launch a successful summer program.
 
 ## Why We Started BUSI
 
-The program's infrastructure is managed by graduate students, with faculty members sponsoring the opportunities, aimed at making the Biostatistics department lively during the summer and providing mentoring opportunities for graduate students.
+Dreamed up by a dynamic duo of grad students and a visionary faculty member, the Biostatistics Undergraduate Summer Internships (BUSI) program was born out of a coffee-fueled brainstorming session aimed at turning the theoretical world of statistics into hands-on, real-world experiences. The program's infrastructure is managed by graduate students while faculty members sponsor the opportunities.
 
 ## Application Process
 
 ### Finding Opportunities
-
-- Faculty offer projects ranging from data management fundamentals to publication-worthy analyses.
-- Faculty specify their needs which allows graduate student directors to match them with students tailored to these projects.
+Our faculty offer summer projects ranging from the fundamentals of data management to publication-worthy analyses. Faculty detail their needs allowing our graduate student directors to match them with a list of students tailored to their projects. Additionally, faculty specify if a graduate student mentor will be working directly with the intern(s).
 
 ### Applying and Getting In
-
-- Students within the department submit an application.
-- Graduate student directors review the applications and select 3-5 candidates per faculty member based on project needs.
+Interested students within the department fill out an application. Our graduate student directors review the applications and hand-pick 3-5 standout candidates for each faculty member based on project needs.
 
 ### Interviews
-
-- Faculty interview and select their interns from a curated shortlist, typically choosing 1-2 students.
+Faculty interview and choose their intern(s) from the curated shortlist. Typically, each faculty member selects 1-2 students.
 
 ## Financial Support
-
-- Some projects are funded while others are volunteer-based.
-- Faculty and students indicate their funding preferences during the application process.
+BUSI encourages faculty to offer any opportunities that will work well for undergraduate students. Some projects are funded while others are volunteer-based. Faculty indicate funding availability when offering projects and students indicate if they are only interested in funded opportunities or any type of experience in their application.
 
 ## Summer Events
-
-Organized by graduate student program directors, the events include:
-
-- A summer kickoff event
-- Graduate student mentor training session
-- Presentation preparation workshops
-- "Dress for Success" session
-- End-of-summer research symposium
+While faculty engage with their interns, the graduate student program directors are diligently orchestrating behind the scenes, organizing a summer kickoff event, graduate student mentor training session, presentation preparation workshops, 'Dress for Success' session, and an end-of-summer research symposium.
 
 ## The Grand Finale: End-of-Summer Research Symposium
+### Training & Preparation
+Students attend a presentation preparation workshop hosted by the graduate student directors. Following the workshop, they receive poster templates which they complete and return to the directors for 1-2 rounds of constructive feedback.
 
-- **Training & Preparation:** Students attend a workshop, receive poster templates, and submit their completed posters for feedback.
-- **The Main Event:** Showcases student posters with a delicious catered breakfast.
-- **Shine Bright:** Volunteer graduate students judge the posters, with outstanding work receiving special recognition.
+### The Main Event
+The symposium is the culmination of the summer experience where students showcase their posters while nibbling on a delicious catered breakfast. It’s a feast for the mind and the belly!
+
+### Shine Bright
+Seasoned volunteer graduate students equipped with a rubric take on the role of judges and evaluate student posters and presentations. Outstanding posters receive special recognition both via a certificate and shout-out in the school news.
 
 ## How BUSI Boosts Careers
-
-Many interns continue their research as an honors thesis or secure a permanent position as a research assistant.
+A number of our interns continue to work on their research as an honors thesis or snag a permanent spot as a research assistant.
 
 ## Echoes from the Hallways – Student Feedback
-
-Through surveys, interns evaluate their research experience, outline their future plans, and suggest improvements. Feedback has been overwhelmingly positive.
+Through a survey, interns are invited to evaluate each aspect of their research experience, outline their plans for continuing their research, and offer recommendations for improving BUSI. The feedback so far has been overwhelmingly positive; the interns complete the program energized and eager to continue their research well beyond the summer.
 
 ## Looking Ahead – Keeping the BUSI Buzz Alive
-
-### Teaming Up with Dr. Jane Monaco
-
-- Dr. Monaco, Assistant Dean of Undergraduate Degree Programs, helps solicit projects for the program.
+### Teaming Up with Dr. Monaco
+We've joined forces with Dr. Jane Monaco, the Assistant Dean of Undergraduate Degree Programs, who reaches out to faculty to solicit projects.
 
 ### Funding of Graduate Student Directors
-
-- Supported by the Biostatistics Department and a seed grant from the ASA Section on Statistics and Data Science Education (SSDSE).
+The Biostatistics Department, together with a seed grant from the ASA Section on Statistics and Data Science Education (SSDSE), provides essential funding for our graduate student program directors and symposium.
 
 ### Leadership Pipeline
-
-- Our "Directors in Training" program ensures seamless transition with leadership from exceptional graduate students.
+Our "Directors in Training" program guarantees a seamless transition of the program into the next year. Exceptional graduate students Leo Li and Shravani Chitineni have served as directors in training.
 
 ## Kickstart the Program in Your Department
-
-Inspired to start a similar program? All necessary materials are available on our GitHub. For more details or assistance, contact our founding directors:
-
-- Taylor Krajewski: [tjk@live.unc.edu](mailto:tjk@live.unc.edu)
-- Ann Marie Weideman: [anndo1@live.unc.edu](mailto:anndo1@live.unc.edu)
+Have we inspired you? All the materials you need to get started are just a click away on our GitHub. If you hit a snag or just want to chat, drop a line to our founding directors Taylor Krajewski (tjk@live.unc.edu) and Ann Marie Weideman (anndo1@live.unc.edu).
